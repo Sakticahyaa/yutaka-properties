@@ -309,32 +309,32 @@ function Jogja() {
           <div className="grid grid-cols-2 gap-4 sm:gap-6 md:gap-8">
             <div className="text-center p-3 sm:p-4 md:p-6 bg-white rounded-lg shadow-sm">
               <h3 className="text-sm sm:text-base md:text-xl font-serif mb-1 sm:mb-2 md:mb-3 text-primary-900">Pintu Utama Megah</h3>
-              <p className="text-xs sm:text-sm md:text-base text-gray-700">Model pivot/swivel kayu vertikal dengan smart door lock</p>
+              <p className="text-xs sm:text-sm md:text-base text-gray-700">Pivot kayu smart lock</p>
             </div>
 
             <div className="text-center p-3 sm:p-4 md:p-6 bg-white rounded-lg shadow-sm">
               <h3 className="text-sm sm:text-base md:text-xl font-serif mb-1 sm:mb-2 md:mb-3 text-primary-900">Fasad Modern Tropis</h3>
-              <p className="text-xs sm:text-sm md:text-base text-gray-700">Roster putih, bata ekspos, beton industrial dengan tanaman</p>
+              <p className="text-xs sm:text-sm md:text-base text-gray-700">Roster & bata ekspos</p>
             </div>
 
             <div className="text-center p-3 sm:p-4 md:p-6 bg-white rounded-lg shadow-sm">
               <h3 className="text-sm sm:text-base md:text-xl font-serif mb-1 sm:mb-2 md:mb-3 text-primary-900">Inner Courtyard</h3>
-              <p className="text-xs sm:text-sm md:text-base text-gray-700">Void terbuka dengan taman, kolam ikan & air terjun mini</p>
+              <p className="text-xs sm:text-sm md:text-base text-gray-700">Void taman & air terjun</p>
             </div>
 
             <div className="text-center p-3 sm:p-4 md:p-6 bg-white rounded-lg shadow-sm">
               <h3 className="text-sm sm:text-base md:text-xl font-serif mb-1 sm:mb-2 md:mb-3 text-primary-900">Dapur Elegan</h3>
-              <p className="text-xs sm:text-sm md:text-base text-gray-700">Meja bar L hitam, keran angsa fleksibel, bak cuci ganda</p>
+              <p className="text-xs sm:text-sm md:text-base text-gray-700">Bar hitam & bak ganda</p>
             </div>
 
             <div className="text-center p-3 sm:p-4 md:p-6 bg-white rounded-lg shadow-sm">
               <h3 className="text-sm sm:text-base md:text-xl font-serif mb-1 sm:mb-2 md:mb-3 text-primary-900">Tangga Modern</h3>
-              <p className="text-xs sm:text-sm md:text-base text-gray-700">Railing stainless steel & kaca tempered ke balkon & rooftop</p>
+              <p className="text-xs sm:text-sm md:text-base text-gray-700">Stainless & kaca tempered</p>
             </div>
 
             <div className="text-center p-3 sm:p-4 md:p-6 bg-white rounded-lg shadow-sm">
               <h3 className="text-sm sm:text-base md:text-xl font-serif mb-1 sm:mb-2 md:mb-3 text-primary-900">Kamar Mandi Mewah</h3>
-              <p className="text-xs sm:text-sm md:text-base text-gray-700">Keramik marmer abu-abu, partisi kaca, pemanas air</p>
+              <p className="text-xs sm:text-sm md:text-base text-gray-700">Marmer & water heater</p>
             </div>
           </div>
         </div>
