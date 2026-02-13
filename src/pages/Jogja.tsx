@@ -227,7 +227,7 @@ function Jogja() {
           <h2 className="text-4xl md:text-5xl font-serif text-center mb-16 text-primary-900">
             Spesifikasi Premium
           </h2>
-          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-6 max-w-5xl mx-auto">
+          <div className="grid grid-cols-3 gap-4 sm:gap-5 md:gap-6 max-w-5xl mx-auto">
             {[
               { icon: '🛏️', title: '5 Kamar Tidur', description: 'Super Luas & Nyaman' },
               { icon: '🚿', title: '4 Kamar Mandi', description: 'Pemanas Air & Marmer' },
@@ -242,10 +242,10 @@ function Jogja() {
               { icon: '🌿', title: 'Inner Courtyard', description: 'Void Terbuka & Asri' },
               { icon: '🪟', title: 'Roster Ventilasi', description: 'Sirkulasi Udara Maksimal' },
             ].map((amenity, index) => (
-              <div key={index} className="text-center p-4 bg-gray-50 rounded-lg shadow-sm hover:shadow-md transition-shadow">
-                <div className="text-4xl mb-3">{amenity.icon}</div>
-                <h3 className="font-semibold text-gray-900 mb-1">{amenity.title}</h3>
-                <p className="text-sm text-gray-600">{amenity.description}</p>
+              <div key={index} className="text-center p-3 sm:p-4 bg-gray-50 rounded-lg shadow-sm hover:shadow-md transition-shadow">
+                <div className="text-3xl sm:text-4xl mb-2 sm:mb-3">{amenity.icon}</div>
+                <h3 className="font-semibold text-gray-900 mb-1 text-sm sm:text-base">{amenity.title}</h3>
+                <p className="text-xs sm:text-sm text-gray-600">{amenity.description}</p>
               </div>
             ))}
           </div>
