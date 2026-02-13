@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom';
 function Menteng() {
   const [menuOpen, setMenuOpen] = useState(false);
   const [showAllGallery, setShowAllGallery] = useState(false);
+  const [selectedImage, setSelectedImage] = useState<number | null>(null);
 
   const scrollToSection = (id: string) => {
     const element = document.getElementById(id);
@@ -33,6 +34,15 @@ function Menteng() {
     }, 100);
 
     return () => observer.disconnect();
+  });
+
+  // Handle ESC key to close lightbox
+  useState(() => {
+    const handleEscape = (e: KeyboardEvent) => {
+      if (e.key === 'Escape') setSelectedImage(null);
+    };
+    window.addEventListener('keydown', handleEscape);
+    return () => window.removeEventListener('keydown', handleEscape);
   });
 
   return (
@@ -165,13 +175,14 @@ function Menteng() {
             {(showAllGallery ? [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17] : [2, 3, 4, 5, 6, 7, 8, 9, 10]).map((num, index) => (
               <div
                 key={num}
-                className="overflow-hidden rounded-lg shadow-md hover:shadow-xl transition-all duration-300 animate-fadeIn"
+                onClick={() => setSelectedImage(num)}
+                className="overflow-hidden rounded-lg shadow-md hover:shadow-xl transition-all duration-300 animate-fadeIn cursor-pointer aspect-[4/3]"
                 style={{ animationDelay: `${index * 50}ms` }}
               >
                 <img
                   src={`/images/gallery-${num}.jpeg`}
                   alt={`Menteng Park Apartment ${num}`}
-                  className="w-full h-64 object-cover hover:scale-110 transition-transform duration-300"
+                  className="w-full h-full object-cover hover:scale-110 transition-transform duration-300"
                 />
               </div>
             ))}
@@ -445,6 +456,30 @@ function Menteng() {
           </div>
         </div>
       </footer>
+
+      {/* Lightbox Modal */}
+      {selectedImage !== null && (
+        <div
+          className="fixed inset-0 bg-black bg-opacity-90 z-[100] flex items-center justify-center p-4"
+          onClick={() => setSelectedImage(null)}
+        >
+          <button
+            onClick={() => setSelectedImage(null)}
+            className="absolute top-4 right-4 text-white hover:text-gray-300 transition-colors z-[101]"
+            aria-label="Close"
+          >
+            <svg className="w-8 h-8 sm:w-10 sm:h-10" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+            </svg>
+          </button>
+          <img
+            src={`/images/gallery-${selectedImage}.jpeg`}
+            alt={`Menteng Park Apartment ${selectedImage}`}
+            className="max-w-full max-h-full object-contain"
+            onClick={(e) => e.stopPropagation()}
+          />
+        </div>
+      )}
     </div>
   );
 }

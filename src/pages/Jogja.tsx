@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom';
 function Jogja() {
   const [menuOpen, setMenuOpen] = useState(false);
   const [showAllGallery, setShowAllGallery] = useState(false);
+  const [selectedImage, setSelectedImage] = useState<string | null>(null);
 
   const scrollToSection = (id: string) => {
     const element = document.getElementById(id);
@@ -32,6 +33,15 @@ function Jogja() {
     }, 100);
 
     return () => observer.disconnect();
+  });
+
+  // Handle ESC key to close lightbox
+  useState(() => {
+    const handleEscape = (e: KeyboardEvent) => {
+      if (e.key === 'Escape') setSelectedImage(null);
+    };
+    window.addEventListener('keydown', handleEscape);
+    return () => window.removeEventListener('keydown', handleEscape);
   });
 
   // Get list of Jogja images
@@ -176,13 +186,14 @@ function Jogja() {
             {(showAllGallery ? jogjaImages : jogjaImages.slice(0, 9)).map((img, index) => (
               <div
                 key={img}
-                className="overflow-hidden rounded-lg shadow-md hover:shadow-xl transition-all duration-300 animate-fadeIn"
+                onClick={() => setSelectedImage(img)}
+                className="overflow-hidden rounded-lg shadow-md hover:shadow-xl transition-all duration-300 animate-fadeIn cursor-pointer aspect-[4/3]"
                 style={{ animationDelay: `${index * 50}ms` }}
               >
                 <img
                   src={`/images/jogja/Gemini_Generated_Image_${img}.png`}
                   alt={`Easyhome Jogja ${index + 1}`}
-                  className="w-full h-64 object-cover hover:scale-110 transition-transform duration-300"
+                  className="w-full h-full object-cover hover:scale-110 transition-transform duration-300"
                 />
               </div>
             ))}
@@ -506,6 +517,30 @@ function Jogja() {
           </div>
         </div>
       </footer>
+
+      {/* Lightbox Modal */}
+      {selectedImage !== null && (
+        <div
+          className="fixed inset-0 bg-black bg-opacity-90 z-[100] flex items-center justify-center p-4"
+          onClick={() => setSelectedImage(null)}
+        >
+          <button
+            onClick={() => setSelectedImage(null)}
+            className="absolute top-4 right-4 text-white hover:text-gray-300 transition-colors z-[101]"
+            aria-label="Close"
+          >
+            <svg className="w-8 h-8 sm:w-10 sm:h-10" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+            </svg>
+          </button>
+          <img
+            src={`/images/jogja/Gemini_Generated_Image_${selectedImage}.png`}
+            alt={`Easyhome Jogja`}
+            className="max-w-full max-h-full object-contain"
+            onClick={(e) => e.stopPropagation()}
+          />
+        </div>
+      )}
     </div>
   );
 }
