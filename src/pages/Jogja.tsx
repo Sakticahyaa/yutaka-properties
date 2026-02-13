@@ -182,7 +182,7 @@ function Jogja() {
           <h2 className="text-4xl md:text-5xl font-serif text-center mb-16 text-primary-900">
             Gallery
           </h2>
-          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 max-w-5xl mx-auto transition-all duration-500">
+          <div className="grid grid-cols-3 gap-2 sm:gap-3 md:gap-4 max-w-5xl mx-auto transition-all duration-500">
             {(showAllGallery ? jogjaImages : jogjaImages.slice(0, 9)).map((img, index) => (
               <div
                 key={img}

@@ -171,7 +171,7 @@ function Menteng() {
           <h2 className="text-4xl md:text-5xl font-serif text-center mb-16 text-primary-900">
             Gallery
           </h2>
-          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 max-w-5xl mx-auto transition-all duration-500">
+          <div className="grid grid-cols-3 gap-2 sm:gap-3 md:gap-4 max-w-5xl mx-auto transition-all duration-500">
             {(showAllGallery ? [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17] : [2, 3, 4, 5, 6, 7, 8, 9, 10]).map((num, index) => (
               <div
                 key={num}
