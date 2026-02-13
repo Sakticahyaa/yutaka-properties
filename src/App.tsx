@@ -4,8 +4,10 @@ import Menteng from './pages/Menteng';
 import Jogja from './pages/Jogja';
 
 function App() {
+  const basename = import.meta.env.BASE_URL;
+
   return (
-    <BrowserRouter basename="/yutaka-properties">
+    <BrowserRouter basename={basename}>
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/menteng" element={<Menteng />} />
