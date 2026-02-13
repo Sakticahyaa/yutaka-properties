@@ -306,7 +306,7 @@ function Jogja() {
           <h2 className="text-4xl md:text-5xl font-serif text-center mb-16 text-primary-900">
             Desain & Fasilitas Unggulan
           </h2>
-          <div className="grid grid-cols-3 gap-4 sm:gap-6 md:gap-8">
+          <div className="grid grid-cols-2 gap-4 sm:gap-6 md:gap-8">
             <div className="text-center p-3 sm:p-4 md:p-6 bg-white rounded-lg shadow-sm">
               <h3 className="text-sm sm:text-base md:text-xl font-serif mb-1 sm:mb-2 md:mb-3 text-primary-900">Pintu Utama Megah</h3>
               <p className="text-xs sm:text-sm md:text-base text-gray-700">Model pivot/swivel kayu vertikal dengan smart door lock</p>

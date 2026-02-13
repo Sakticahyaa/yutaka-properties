@@ -247,7 +247,7 @@ function Menteng() {
           <h2 className="text-4xl md:text-5xl font-serif text-center mb-16 text-primary-900">
             Building Facilities
           </h2>
-          <div className="grid grid-cols-3 gap-4 sm:gap-6 md:gap-8">
+          <div className="grid grid-cols-2 gap-4 sm:gap-6 md:gap-8">
             <div className="text-center p-3 sm:p-4 md:p-6 bg-primary-50 rounded-lg">
               <h3 className="text-sm sm:text-base md:text-xl font-serif mb-1 sm:mb-2 md:mb-3 text-primary-900">Infinity Swimming Pool</h3>
               <p className="text-xs sm:text-sm md:text-base text-gray-700">Kolam renang infinity dengan pemandangan kota Jakarta</p>
