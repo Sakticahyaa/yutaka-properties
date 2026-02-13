@@ -247,80 +247,80 @@ function Menteng() {
           <h2 className="text-4xl md:text-5xl font-serif text-center mb-16 text-primary-900">
             Building Facilities
           </h2>
-          <div className="grid md:grid-cols-3 gap-8">
-            <div className="text-center p-6 bg-primary-50 rounded-lg">
-              <div className="w-16 h-16 bg-primary-600 rounded-full flex items-center justify-center mx-auto mb-4">
-                <svg className="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <div className="grid grid-cols-3 gap-4 sm:gap-6 md:gap-8">
+            <div className="text-center p-3 sm:p-4 md:p-6 bg-primary-50 rounded-lg">
+              <div className="w-10 h-10 sm:w-12 sm:h-12 md:w-16 md:h-16 bg-primary-600 rounded-full flex items-center justify-center mx-auto mb-2 sm:mb-3 md:mb-4">
+                <svg className="w-5 h-5 sm:w-6 sm:h-6 md:w-8 md:h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 10h18M3 14h18m-9-4v8m-7 0h14a2 2 0 002-2V8a2 2 0 00-2-2H5a2 2 0 00-2 2v8a2 2 0 002 2z" />
                 </svg>
               </div>
-              <h3 className="text-xl font-serif mb-3 text-primary-900">Infinity Swimming Pool</h3>
-              <p className="text-gray-700">Kolam renang infinity dengan pemandangan kota Jakarta</p>
+              <h3 className="text-sm sm:text-base md:text-xl font-serif mb-1 sm:mb-2 md:mb-3 text-primary-900">Infinity Swimming Pool</h3>
+              <p className="text-xs sm:text-sm md:text-base text-gray-700">Kolam renang infinity dengan pemandangan kota Jakarta</p>
             </div>
 
-            <div className="text-center p-6 bg-primary-50 rounded-lg">
-              <div className="w-16 h-16 bg-primary-600 rounded-full flex items-center justify-center mx-auto mb-4">
-                <svg className="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <div className="text-center p-3 sm:p-4 md:p-6 bg-primary-50 rounded-lg">
+              <div className="w-10 h-10 sm:w-12 sm:h-12 md:w-16 md:h-16 bg-primary-600 rounded-full flex items-center justify-center mx-auto mb-2 sm:mb-3 md:mb-4">
+                <svg className="w-5 h-5 sm:w-6 sm:h-6 md:w-8 md:h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 3v4M3 5h4M6 17v4m-2-2h4m5-16l2.286 6.857L21 12l-5.714 2.143L13 21l-2.286-6.857L5 12l5.714-2.143L13 3z" />
                 </svg>
               </div>
-              <h3 className="text-xl font-serif mb-3 text-primary-900">Rooftop Sky Garden</h3>
-              <p className="text-gray-700">Taman di atap gedung untuk relaksasi dan gathering</p>
+              <h3 className="text-sm sm:text-base md:text-xl font-serif mb-1 sm:mb-2 md:mb-3 text-primary-900">Rooftop Sky Garden</h3>
+              <p className="text-xs sm:text-sm md:text-base text-gray-700">Taman di atap gedung untuk relaksasi dan gathering</p>
             </div>
 
-            <div className="text-center p-6 bg-primary-50 rounded-lg">
-              <div className="w-16 h-16 bg-primary-600 rounded-full flex items-center justify-center mx-auto mb-4">
-                <svg className="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <div className="text-center p-3 sm:p-4 md:p-6 bg-primary-50 rounded-lg">
+              <div className="w-10 h-10 sm:w-12 sm:h-12 md:w-16 md:h-16 bg-primary-600 rounded-full flex items-center justify-center mx-auto mb-2 sm:mb-3 md:mb-4">
+                <svg className="w-5 h-5 sm:w-6 sm:h-6 md:w-8 md:h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
                 </svg>
               </div>
-              <h3 className="text-xl font-serif mb-3 text-primary-900">Fitness Center</h3>
-              <p className="text-gray-700">Gym modern dengan peralatan lengkap</p>
+              <h3 className="text-sm sm:text-base md:text-xl font-serif mb-1 sm:mb-2 md:mb-3 text-primary-900">Fitness Center</h3>
+              <p className="text-xs sm:text-sm md:text-base text-gray-700">Gym modern dengan peralatan lengkap</p>
             </div>
 
-            <div className="text-center p-6 bg-primary-50 rounded-lg">
-              <div className="w-16 h-16 bg-primary-600 rounded-full flex items-center justify-center mx-auto mb-4">
-                <svg className="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <div className="text-center p-3 sm:p-4 md:p-6 bg-primary-50 rounded-lg">
+              <div className="w-10 h-10 sm:w-12 sm:h-12 md:w-16 md:h-16 bg-primary-600 rounded-full flex items-center justify-center mx-auto mb-2 sm:mb-3 md:mb-4">
+                <svg className="w-5 h-5 sm:w-6 sm:h-6 md:w-8 md:h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17.657 18.657A8 8 0 016.343 7.343S7 9 9 10c0-2 .5-5 2.986-7C14 5 16.09 5.777 17.656 7.343A7.975 7.975 0 0120 13a7.975 7.975 0 01-2.343 5.657z" />
                 </svg>
               </div>
-              <h3 className="text-xl font-serif mb-3 text-primary-900">Jogging Track</h3>
-              <p className="text-gray-700">Track lari untuk olahraga pagi dan sore</p>
+              <h3 className="text-sm sm:text-base md:text-xl font-serif mb-1 sm:mb-2 md:mb-3 text-primary-900">Jogging Track</h3>
+              <p className="text-xs sm:text-sm md:text-base text-gray-700">Track lari untuk olahraga pagi dan sore</p>
             </div>
 
-            <div className="text-center p-6 bg-primary-50 rounded-lg">
-              <div className="w-16 h-16 bg-primary-600 rounded-full flex items-center justify-center mx-auto mb-4">
-                <svg className="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <div className="text-center p-3 sm:p-4 md:p-6 bg-primary-50 rounded-lg">
+              <div className="w-10 h-10 sm:w-12 sm:h-12 md:w-16 md:h-16 bg-primary-600 rounded-full flex items-center justify-center mx-auto mb-2 sm:mb-3 md:mb-4">
+                <svg className="w-5 h-5 sm:w-6 sm:h-6 md:w-8 md:h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
                 </svg>
               </div>
-              <h3 className="text-xl font-serif mb-3 text-primary-900">Luxurious Grand Lobby</h3>
-              <p className="text-gray-700">Lobby mewah dengan pelayanan concierge</p>
+              <h3 className="text-sm sm:text-base md:text-xl font-serif mb-1 sm:mb-2 md:mb-3 text-primary-900">Luxurious Grand Lobby</h3>
+              <p className="text-xs sm:text-sm md:text-base text-gray-700">Lobby mewah dengan pelayanan concierge</p>
             </div>
 
-            <div className="text-center p-6 bg-primary-50 rounded-lg">
-              <div className="w-16 h-16 bg-primary-600 rounded-full flex items-center justify-center mx-auto mb-4">
-                <svg className="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <div className="text-center p-3 sm:p-4 md:p-6 bg-primary-50 rounded-lg">
+              <div className="w-10 h-10 sm:w-12 sm:h-12 md:w-16 md:h-16 bg-primary-600 rounded-full flex items-center justify-center mx-auto mb-2 sm:mb-3 md:mb-4">
+                <svg className="w-5 h-5 sm:w-6 sm:h-6 md:w-8 md:h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 3h2l.4 2M7 13h10l4-8H5.4M7 13L5.4 5M7 13l-2.293 2.293c-.63.63-.184 1.707.707 1.707H17m0 0a2 2 0 100 4 2 2 0 000-4zm-8 2a2 2 0 11-4 0 2 2 0 014 0z" />
                 </svg>
               </div>
-              <h3 className="text-xl font-serif mb-3 text-primary-900">Retail & F&B</h3>
-              <p className="text-gray-700">Food arcade, supermarket, cafe, dan restoran</p>
+              <h3 className="text-sm sm:text-base md:text-xl font-serif mb-1 sm:mb-2 md:mb-3 text-primary-900">Retail & F&B</h3>
+              <p className="text-xs sm:text-sm md:text-base text-gray-700">Food arcade, supermarket, cafe, dan restoran</p>
             </div>
           </div>
 
-          <div className="mt-12 grid md:grid-cols-3 gap-6 max-w-4xl mx-auto">
-            <div className="text-center p-4 bg-white border border-primary-200 rounded-lg">
-              <div className="text-3xl mb-2">🏦</div>
-              <p className="font-semibold text-gray-900">ATM Center</p>
+          <div className="mt-8 sm:mt-10 md:mt-12 grid grid-cols-3 gap-3 sm:gap-4 md:gap-6 max-w-4xl mx-auto">
+            <div className="text-center p-3 sm:p-4 bg-white border border-primary-200 rounded-lg">
+              <div className="text-2xl sm:text-3xl mb-1 sm:mb-2">🏦</div>
+              <p className="font-semibold text-gray-900 text-xs sm:text-sm md:text-base">ATM Center</p>
             </div>
-            <div className="text-center p-4 bg-white border border-primary-200 rounded-lg">
-              <div className="text-3xl mb-2">🎮</div>
-              <p className="font-semibold text-gray-900">Playground Anak</p>
+            <div className="text-center p-3 sm:p-4 bg-white border border-primary-200 rounded-lg">
+              <div className="text-2xl sm:text-3xl mb-1 sm:mb-2">🎮</div>
+              <p className="font-semibold text-gray-900 text-xs sm:text-sm md:text-base">Playground Anak</p>
             </div>
-            <div className="text-center p-4 bg-white border border-primary-200 rounded-lg">
-              <div className="text-3xl mb-2">🔒</div>
-              <p className="font-semibold text-gray-900">24/7 Security</p>
+            <div className="text-center p-3 sm:p-4 bg-white border border-primary-200 rounded-lg">
+              <div className="text-2xl sm:text-3xl mb-1 sm:mb-2">🔒</div>
+              <p className="font-semibold text-gray-900 text-xs sm:text-sm md:text-base">24/7 Security</p>
             </div>
           </div>
         </div>
