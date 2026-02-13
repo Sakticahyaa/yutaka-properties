@@ -5,7 +5,7 @@ import Jogja from './pages/Jogja';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/yutaka-properties">
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/menteng" element={<Menteng />} />
