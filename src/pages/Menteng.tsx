@@ -52,7 +52,7 @@ function Menteng() {
         <div className="container-custom">
           <div className="flex justify-between items-center h-20">
             <Link to="/" className="text-2xl font-serif font-bold text-primary-700 hover:text-primary-800 transition-colors">
-              Yutaka Properties
+              Yutaka Property
             </Link>
 
             {/* Desktop Navigation */}
@@ -417,7 +417,7 @@ function Menteng() {
       {/* Footer */}
       <footer className="bg-primary-900 text-white py-12">
         <div className="container-custom text-center">
-          <div className="text-2xl font-serif mb-4">Yutaka Properties</div>
+          <div className="text-2xl font-serif mb-4">Yutaka Property</div>
           <p className="text-gray-300 mb-6">Premium Property Investment in Jakarta</p>
           <div className="flex justify-center gap-8 mb-6">
             <button onClick={() => scrollToSection('hero')} className="text-gray-300 hover:text-white transition-colors">Home</button>
@@ -427,7 +427,7 @@ function Menteng() {
           </div>
           <div className="border-t border-gray-700 pt-6">
             <p className="text-gray-400 text-sm">
-              © 2026 Yutaka Properties. All rights reserved.
+              © 2026 Yutaka Property. All rights reserved.
             </p>
           </div>
         </div>

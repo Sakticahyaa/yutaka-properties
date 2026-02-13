@@ -1,0 +1,45 @@
+YUTAKA PROPERTIES - LOGO DESIGN PROMPT FOR GEMINI
+==================================================
+
+Create a professional, elegant logo for "Yutaka Property" - a premium real estate investment company specializing in luxury apartments and villas in Indonesia.
+
+COMPANY NAME: Yutaka Property
+
+DESIGN REQUIREMENTS:
+- Style: Modern, minimalist, sophisticated, and trustworthy
+- Industry: Premium real estate / luxury property investment
+- Color scheme: Deep blue (#1e3a8a) and gold (#fbbf24) - represents trust, luxury, and prosperity
+- Typography: Elegant serif or modern sans-serif font
+- Must include the text "Yutaka Property" or "YUTAKA"
+
+DESIGN CONCEPTS TO CONSIDER:
+1. Abstract building/tower silhouette combined with elegant typography
+2. Geometric shapes representing property/architecture (roofline, building outline)
+3. Stylized "Y" lettermark that incorporates architectural elements
+4. Minimalist icon of a luxury building or penthouse
+5. Japanese-inspired minimalism (Yutaka is a Japanese name meaning "abundant")
+
+STYLE PREFERENCES:
+- Clean and professional
+- Scalable for both web and print
+- Works well in monochrome and color
+- Suitable for luxury real estate market
+- Modern but timeless design
+
+FORMAT:
+- Simple icon + wordmark combination
+- Or standalone wordmark with subtle architectural detail
+- Should work on white background and dark backgrounds
+- Vector-style design preferred
+
+MOOD/FEELING:
+Premium, trustworthy, sophisticated, investment-worthy, stable, prosperous
+
+AVOID:
+- Overly complex designs
+- Cliché house icons
+- Dated or generic real estate symbols
+- Too many colors
+- Difficult to read fonts
+
+Please generate 3-4 variations with different concepts.

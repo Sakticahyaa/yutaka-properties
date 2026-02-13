@@ -73,7 +73,7 @@ function Jogja() {
         <div className="container-custom">
           <div className="flex justify-between items-center h-20">
             <Link to="/" className="text-2xl font-serif font-bold text-primary-700 hover:text-primary-800 transition-colors">
-              Yutaka Properties
+              Yutaka Property
             </Link>
 
             {/* Desktop Navigation */}
@@ -489,12 +489,12 @@ function Jogja() {
       <footer className="bg-primary-900 text-white py-12">
         <div className="container-custom text-center">
           <Link to="/" className="text-2xl font-serif mb-4 inline-block hover:text-gold-400 transition-colors">
-            Yutaka Properties
+            Yutaka Property
           </Link>
           <p className="text-gray-300 mb-6">Premium Property Investment in Indonesia</p>
           <div className="border-t border-gray-700 pt-6">
             <p className="text-gray-400 text-sm">
-              © 2026 Yutaka Properties. All rights reserved.
+              © 2026 Yutaka Property. All rights reserved.
             </p>
           </div>
         </div>

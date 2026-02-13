@@ -20,7 +20,7 @@ function Home() {
         {/* Header */}
         <div className="text-center mb-10 sm:mb-16">
           <h1 className="text-4xl sm:text-5xl md:text-7xl font-serif text-white mb-4 sm:mb-6">
-            Yutaka Properties
+            Yutaka Property
           </h1>
           <p className="text-lg sm:text-xl md:text-2xl text-gray-200">
             Premium Property Investment
@@ -99,7 +99,7 @@ function Home() {
         {/* Footer */}
         <div className="text-center mt-16 text-gray-300">
           <p className="text-sm">
-            © 2026 Yutaka Properties. All rights reserved.
+            © 2026 Yutaka Property. All rights reserved.
           </p>
         </div>
       </div>
