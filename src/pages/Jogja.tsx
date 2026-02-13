@@ -164,12 +164,12 @@ function Jogja() {
             <h2 className="text-4xl md:text-5xl font-serif mb-8 text-primary-900 text-center">
               Hunian Mewah Modern Tropis
             </h2>
-            <div className="text-lg text-gray-700 leading-relaxed space-y-4">
+            <div className="text-base sm:text-lg text-gray-700 leading-relaxed space-y-4">
               <p>
-                <strong>Easy Home Jogja</strong> yang berlokasi di <strong>Maguwoharjo, Yogyakarta</strong> ini tampil sebagai hunian mewah tiga lantai dengan desain modern tropis yang memikat, menonjolkan fasad bangunan yang mengombinasikan estetika roster putih untuk ventilasi udara alami, aksen bata merah ekspos yang hangat, serta sentuhan beton industrial yang dilengkapi tanaman gantung Lee Kuan Yew untuk nuansa asri. Akses masuk rumah dirancang eksklusif dengan gerbang aman, carport berlantai motif, serta pintu utama megah model pivot berbahan kayu vertikal yang dilengkapi sistem keamanan digital smart door lock modern.
+                <strong>Easy Home Jogja</strong> di <strong>Maguwoharjo, Yogyakarta</strong> — hunian mewah 3 lantai dengan desain modern tropis. Fasad roster putih, bata ekspos, dan beton industrial dengan tanaman Lee Kuan Yew. Pintu pivot kayu dengan smart door lock digital.
               </p>
               <p>
-                Interior rumah terasa sangat lapang dan terang berkat penggunaan lantai granit bermotif marmer putih di seluruh ruangan serta langit-langit tinggi yang dihiasi lampu gantung industrial. Pusat perhatian rumah ini adalah area <strong>void atau inner courtyard terbuka</strong> di tengah bangunan yang memastikan sirkulasi udara dan cahaya matahari masuk dengan maksimal, dipercantik dengan taman kering, pohon peneduh, kolam ikan dengan fitur air terjun mini, serta panel dinding dekoratif laser-cut yang artistik.
+                Interior lapang dengan lantai granit marmer putih dan lampu industrial. Fitur unggulan: <strong>inner courtyard terbuka</strong> di tengah bangunan dengan taman, kolam ikan, air terjun mini, dan panel laser-cut artistik.
               </p>
             </div>
           </div>
@@ -259,9 +259,9 @@ function Jogja() {
             <h2 className="text-4xl md:text-5xl font-serif mb-8 text-primary-900 text-center">
               Lokasi Strategis Premium
             </h2>
-            <div className="text-lg text-gray-700 leading-relaxed space-y-4">
+            <div className="text-base sm:text-lg text-gray-700 leading-relaxed space-y-4">
               <p>
-                Lokasi properti ini dinilai sangat strategis di kawasan <strong>Maguwoharjo, Yogyakarta</strong>, karena hanya berjarak <strong className="text-gold-700">1 menit</strong> dari destinasi wisata populer Jogja Waterboom atau Jogja Bay dan dikelilingi oleh fasilitas vital.
+                Hanya <strong className="text-gold-700">1 menit</strong> dari Jogja Waterboom di kawasan <strong>Maguwoharjo, Yogyakarta</strong>. Dikelilingi fasilitas lengkap.
               </p>
               <div className="grid md:grid-cols-2 gap-6 mt-8">
                 <div className="bg-white p-6 rounded-lg shadow-sm">
@@ -293,7 +293,7 @@ function Jogja() {
                 </div>
               </div>
               <p className="mt-6">
-                Posisi yang dekat dengan pusat keramaian dan pendidikan ini menjadikan properti tersebut memiliki <strong className="text-gold-700">daya tarik tinggi bagi wisatawan maupun mahasiswa</strong>, mendukung fungsinya tidak hanya sebagai tempat tinggal keluarga yang nyaman tetapi juga sebagai aset produktif yang bernilai tinggi.
+                Lokasi strategis dengan <strong className="text-gold-700">daya tarik tinggi untuk wisatawan dan mahasiswa</strong>. Ideal untuk hunian keluarga atau investasi homestay.
               </p>
             </div>
           </div>
