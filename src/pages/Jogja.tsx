@@ -202,7 +202,7 @@ function Jogja() {
             {!showAllGallery ? (
               <button
                 onClick={() => setShowAllGallery(true)}
-                className="btn-primary transition-all duration-300 hover:scale-105"
+                className="btn-primary transition-all duration-300 hover:scale-105 text-sm sm:text-base px-4 sm:px-6 py-2 sm:py-3"
               >
                 Show More Photos
               </button>
@@ -242,9 +242,9 @@ function Jogja() {
               { icon: '🌿', title: 'Inner Courtyard', description: 'Void Terbuka & Asri' },
               { icon: '🪟', title: 'Roster Ventilasi', description: 'Sirkulasi Udara Maksimal' },
             ].map((amenity, index) => (
-              <div key={index} className="text-center p-3 sm:p-4 bg-gray-50 rounded-lg shadow-sm hover:shadow-md transition-shadow">
-                <div className="text-3xl sm:text-4xl mb-2 sm:mb-3">{amenity.icon}</div>
-                <h3 className="font-semibold text-gray-900 mb-1 text-sm sm:text-base">{amenity.title}</h3>
+              <div key={index} className="text-center">
+                <div className="text-3xl sm:text-4xl mb-1 sm:mb-2">{amenity.icon}</div>
+                <h3 className="font-semibold text-gray-900 mb-0.5 text-sm sm:text-base">{amenity.title}</h3>
                 <p className="text-xs sm:text-sm text-gray-600">{amenity.description}</p>
               </div>
             ))}
@@ -308,49 +308,31 @@ function Jogja() {
           </h2>
           <div className="grid grid-cols-3 gap-4 sm:gap-6 md:gap-8">
             <div className="text-center p-3 sm:p-4 md:p-6 bg-white rounded-lg shadow-sm">
-              <div className="w-10 h-10 sm:w-12 sm:h-12 md:w-16 md:h-16 bg-primary-600 rounded-full flex items-center justify-center mx-auto mb-2 sm:mb-3 md:mb-4">
-                <span className="text-xl sm:text-2xl md:text-3xl">🚪</span>
-              </div>
               <h3 className="text-sm sm:text-base md:text-xl font-serif mb-1 sm:mb-2 md:mb-3 text-primary-900">Pintu Utama Megah</h3>
               <p className="text-xs sm:text-sm md:text-base text-gray-700">Model pivot/swivel kayu vertikal dengan smart door lock</p>
             </div>
 
             <div className="text-center p-3 sm:p-4 md:p-6 bg-white rounded-lg shadow-sm">
-              <div className="w-10 h-10 sm:w-12 sm:h-12 md:w-16 md:h-16 bg-primary-600 rounded-full flex items-center justify-center mx-auto mb-2 sm:mb-3 md:mb-4">
-                <span className="text-xl sm:text-2xl md:text-3xl">🏛️</span>
-              </div>
               <h3 className="text-sm sm:text-base md:text-xl font-serif mb-1 sm:mb-2 md:mb-3 text-primary-900">Fasad Modern Tropis</h3>
               <p className="text-xs sm:text-sm md:text-base text-gray-700">Roster putih, bata ekspos, beton industrial dengan tanaman</p>
             </div>
 
             <div className="text-center p-3 sm:p-4 md:p-6 bg-white rounded-lg shadow-sm">
-              <div className="w-10 h-10 sm:w-12 sm:h-12 md:w-16 md:h-16 bg-primary-600 rounded-full flex items-center justify-center mx-auto mb-2 sm:mb-3 md:mb-4">
-                <span className="text-xl sm:text-2xl md:text-3xl">🌞</span>
-              </div>
               <h3 className="text-sm sm:text-base md:text-xl font-serif mb-1 sm:mb-2 md:mb-3 text-primary-900">Inner Courtyard</h3>
               <p className="text-xs sm:text-sm md:text-base text-gray-700">Void terbuka dengan taman, kolam ikan & air terjun mini</p>
             </div>
 
             <div className="text-center p-3 sm:p-4 md:p-6 bg-white rounded-lg shadow-sm">
-              <div className="w-10 h-10 sm:w-12 sm:h-12 md:w-16 md:h-16 bg-primary-600 rounded-full flex items-center justify-center mx-auto mb-2 sm:mb-3 md:mb-4">
-                <span className="text-xl sm:text-2xl md:text-3xl">🍽️</span>
-              </div>
               <h3 className="text-sm sm:text-base md:text-xl font-serif mb-1 sm:mb-2 md:mb-3 text-primary-900">Dapur Elegan</h3>
               <p className="text-xs sm:text-sm md:text-base text-gray-700">Meja bar L hitam, keran angsa fleksibel, bak cuci ganda</p>
             </div>
 
             <div className="text-center p-3 sm:p-4 md:p-6 bg-white rounded-lg shadow-sm">
-              <div className="w-10 h-10 sm:w-12 sm:h-12 md:w-16 md:h-16 bg-primary-600 rounded-full flex items-center justify-center mx-auto mb-2 sm:mb-3 md:mb-4">
-                <span className="text-xl sm:text-2xl md:text-3xl">🪜</span>
-              </div>
               <h3 className="text-sm sm:text-base md:text-xl font-serif mb-1 sm:mb-2 md:mb-3 text-primary-900">Tangga Modern</h3>
               <p className="text-xs sm:text-sm md:text-base text-gray-700">Railing stainless steel & kaca tempered ke balkon & rooftop</p>
             </div>
 
             <div className="text-center p-3 sm:p-4 md:p-6 bg-white rounded-lg shadow-sm">
-              <div className="w-10 h-10 sm:w-12 sm:h-12 md:w-16 md:h-16 bg-primary-600 rounded-full flex items-center justify-center mx-auto mb-2 sm:mb-3 md:mb-4">
-                <span className="text-xl sm:text-2xl md:text-3xl">🛁</span>
-              </div>
               <h3 className="text-sm sm:text-base md:text-xl font-serif mb-1 sm:mb-2 md:mb-3 text-primary-900">Kamar Mandi Mewah</h3>
               <p className="text-xs sm:text-sm md:text-base text-gray-700">Keramik marmer abu-abu, partisi kaca, pemanas air</p>
             </div>
