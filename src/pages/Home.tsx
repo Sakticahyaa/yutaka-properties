@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom';
 
 function Home() {
   return (
-    <div className="min-h-screen bg-gradient-to-br from-blue-900 via-blue-700 to-blue-500 flex items-center justify-center px-6 relative overflow-hidden">
+    <div className="min-h-screen bg-gradient-to-br from-blue-900 via-blue-700 to-blue-500 flex items-center justify-center px-4 sm:px-6 py-8 sm:py-0 relative overflow-hidden">
       {/* Animated Wave Backgrounds */}
       <div className="absolute inset-0 overflow-hidden">
         <svg className="absolute bottom-0 left-0 w-full h-full opacity-20 animate-wave" viewBox="0 0 1440 320" preserveAspectRatio="none">
@@ -18,17 +18,17 @@ function Home() {
 
       <div className="max-w-7xl w-full relative z-10">
         {/* Header */}
-        <div className="text-center mb-16">
-          <h1 className="text-5xl md:text-7xl font-serif text-white mb-6">
+        <div className="text-center mb-10 sm:mb-16">
+          <h1 className="text-4xl sm:text-5xl md:text-7xl font-serif text-white mb-4 sm:mb-6">
             Yutaka Properties
           </h1>
-          <p className="text-xl md:text-2xl text-gray-200">
+          <p className="text-lg sm:text-xl md:text-2xl text-gray-200">
             Premium Property Investment
           </p>
         </div>
 
         {/* Property Cards */}
-        <div className="grid md:grid-cols-2 gap-8 max-w-6xl mx-auto">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 sm:gap-8 max-w-6xl mx-auto">
           {/* Menteng Card */}
           <Link
             to="/menteng"
@@ -42,14 +42,14 @@ function Home() {
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent"></div>
 
-              <div className="absolute bottom-0 left-0 right-0 p-8 text-white">
-                <h2 className="text-3xl md:text-4xl font-serif mb-3">
+              <div className="absolute bottom-0 left-0 right-0 p-5 sm:p-6 md:p-8 text-white">
+                <h2 className="text-2xl sm:text-3xl md:text-4xl font-serif mb-2 sm:mb-3">
                   Menteng Park Apartment
                 </h2>
-                <p className="text-lg mb-2 text-gray-200">
+                <p className="text-base sm:text-lg mb-2 text-gray-200">
                   Jakarta Pusat
                 </p>
-                <p className="text-2xl font-bold text-gold-400 mb-4">
+                <p className="text-xl sm:text-2xl font-bold text-gold-400 mb-3 sm:mb-4">
                   Rp 2,9 Miliar
                 </p>
                 <div className="flex items-center gap-2 text-gold-400 group-hover:gap-4 transition-all">
@@ -75,14 +75,14 @@ function Home() {
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent"></div>
 
-              <div className="absolute bottom-0 left-0 right-0 p-8 text-white">
-                <h2 className="text-3xl md:text-4xl font-serif mb-3">
+              <div className="absolute bottom-0 left-0 right-0 p-5 sm:p-6 md:p-8 text-white">
+                <h2 className="text-2xl sm:text-3xl md:text-4xl font-serif mb-2 sm:mb-3">
                   Easyhome Jogja
                 </h2>
-                <p className="text-lg mb-2 text-gray-200">
+                <p className="text-base sm:text-lg mb-2 text-gray-200">
                   Maguwoharjo, Yogyakarta
                 </p>
-                <p className="text-2xl font-bold text-gold-400 mb-4">
+                <p className="text-xl sm:text-2xl font-bold text-gold-400 mb-3 sm:mb-4">
                   Investasi Premium
                 </p>
                 <div className="flex items-center gap-2 text-gold-400 group-hover:gap-4 transition-all">
