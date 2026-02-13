@@ -248,32 +248,32 @@ function Menteng() {
             Building Facilities
           </h2>
           <div className="grid grid-cols-2 gap-4 sm:gap-6 md:gap-8">
-            <div className="text-center p-3 sm:p-4 md:p-6 bg-primary-50 rounded-lg">
+            <div className="text-center p-3 sm:p-4 md:p-6 bg-primary-50 rounded-lg h-full flex flex-col justify-center">
               <h3 className="text-sm sm:text-base md:text-xl font-serif mb-1 sm:mb-2 md:mb-3 text-primary-900">Infinity Swimming Pool</h3>
               <p className="text-xs sm:text-sm md:text-base text-gray-700">Kolam infinity city view</p>
             </div>
 
-            <div className="text-center p-3 sm:p-4 md:p-6 bg-primary-50 rounded-lg">
+            <div className="text-center p-3 sm:p-4 md:p-6 bg-primary-50 rounded-lg h-full flex flex-col justify-center">
               <h3 className="text-sm sm:text-base md:text-xl font-serif mb-1 sm:mb-2 md:mb-3 text-primary-900">Rooftop Sky Garden</h3>
               <p className="text-xs sm:text-sm md:text-base text-gray-700">Taman atap & gathering</p>
             </div>
 
-            <div className="text-center p-3 sm:p-4 md:p-6 bg-primary-50 rounded-lg">
+            <div className="text-center p-3 sm:p-4 md:p-6 bg-primary-50 rounded-lg h-full flex flex-col justify-center">
               <h3 className="text-sm sm:text-base md:text-xl font-serif mb-1 sm:mb-2 md:mb-3 text-primary-900">Fitness Center</h3>
               <p className="text-xs sm:text-sm md:text-base text-gray-700">Gym lengkap modern</p>
             </div>
 
-            <div className="text-center p-3 sm:p-4 md:p-6 bg-primary-50 rounded-lg">
+            <div className="text-center p-3 sm:p-4 md:p-6 bg-primary-50 rounded-lg h-full flex flex-col justify-center">
               <h3 className="text-sm sm:text-base md:text-xl font-serif mb-1 sm:mb-2 md:mb-3 text-primary-900">Jogging Track</h3>
               <p className="text-xs sm:text-sm md:text-base text-gray-700">Track lari outdoor</p>
             </div>
 
-            <div className="text-center p-3 sm:p-4 md:p-6 bg-primary-50 rounded-lg">
+            <div className="text-center p-3 sm:p-4 md:p-6 bg-primary-50 rounded-lg h-full flex flex-col justify-center">
               <h3 className="text-sm sm:text-base md:text-xl font-serif mb-1 sm:mb-2 md:mb-3 text-primary-900">Luxurious Grand Lobby</h3>
               <p className="text-xs sm:text-sm md:text-base text-gray-700">Lobby mewah concierge</p>
             </div>
 
-            <div className="text-center p-3 sm:p-4 md:p-6 bg-primary-50 rounded-lg">
+            <div className="text-center p-3 sm:p-4 md:p-6 bg-primary-50 rounded-lg h-full flex flex-col justify-center">
               <h3 className="text-sm sm:text-base md:text-xl font-serif mb-1 sm:mb-2 md:mb-3 text-primary-900">Retail & F&B</h3>
               <p className="text-xs sm:text-sm md:text-base text-gray-700">Food & retail area</p>
             </div>
