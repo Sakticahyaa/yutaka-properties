@@ -1,0 +1,224 @@
+YUTAKA PROPERTY - CUSTOM SEGMENT KEYWORDS
+==========================================
+
+IMPORTANT: Google's suggestions (motels, guest houses, india property) are WRONG.
+Use these keywords instead - relevant to premium property investment in Indonesia.
+
+===== KEYWORD SETTING =====
+
+RECOMMENDED: Select "Audience"
+- Shows ads to people interested in these keywords
+- Also shows on related webpages, apps, and videos
+- Broader reach, better for starting out
+
+Alternative: "Content" (only if you want very narrow targeting)
+- Only shows ads on content directly related to keywords
+- More restrictive, may limit reach
+
+
+===== KEYWORDS TO ENTER (Copy & paste into Google Ads) =====
+
+apartemen dijual jakarta
+apartemen menteng dijual
+penthouse jakarta dijual
+apartemen premium jakarta
+investasi apartemen jakarta
+apartemen fully furnished jakarta
+apartemen siap huni jakarta
+apartemen jakarta pusat
+menteng park apartment
+apartemen view monas
+villa dijual jogja
+villa dijual yogyakarta
+villa maguwoharjo dijual
+villa dekat malioboro
+villa jogja investasi
+villa 3 lantai jogja
+villa fully furnished jogja
+properti dijual jogja
+investasi properti jakarta
+investasi properti yogyakarta
+investasi properti indonesia
+properti passive income
+properti roi tinggi
+real estate investment indonesia
+property investment jakarta
+investment property indonesia
+buy apartment jakarta
+jakarta luxury apartment
+premium property indonesia
+furnished apartment jakarta
+turnkey property indonesia
+apartemen untuk disewakan
+properti siap sewa
+passive income real estate indonesia
+beli apartemen jakarta
+apartemen investasi jakarta
+properti premium indonesia
+real estate indonesia investment
+luxury apartment indonesia
+jakarta penthouse for sale
+yogyakarta villa for sale
+apartment menteng jakarta
+property for rent jakarta
+high roi property indonesia
+jakarta central apartment
+property investment opportunity indonesia
+apartemen 2 kamar jakarta
+villa 5 kamar jogja
+properti mewah jakarta
+luxury real estate indonesia
+investment apartment furnished
+jakarta apartment fully furnished
+jogja villa investment
+property developer indonesia
+apartemen ready to rent
+villa ready to rent
+properti turnkey indonesia
+investasi passive income properti
+real estate roi indonesia
+apartemen lokasi strategis jakarta
+villa lokasi strategis jogja
+properti dekat airport jogja
+apartemen dekat monas
+jakarta investment property
+yogyakarta investment villa
+premium furnished apartment
+luxury villa yogyakarta
+menteng luxury apartment
+jakarta real estate investment
+indonesia luxury property
+high end apartment jakarta
+premium villa jogja
+apartemen penghasilan pasif
+villa sewa jangka panjang
+property rental income indonesia
+investasi apartemen roi tinggi
+jakarta property market
+indonesia real estate market
+expat property indonesia
+foreigner property indonesia
+apartment for expat jakarta
+villa for investment jogja
+properti fully furnished
+apartemen lengkap perabotan
+villa lengkap furniture
+real estate portfolio indonesia
+property diversification indonesia
+jakarta residential investment
+yogyakarta property investment
+apartemen mewah jakarta pusat
+penthouse menteng jakarta
+villa modern jogja
+contemporary apartment jakarta
+luxury living jakarta
+premium living yogyakarta
+jakarta city apartment
+jogja luxury villa
+apartemen 2 bedroom jakarta
+villa 5 bedroom jogja
+furnished penthouse jakarta
+fully equipped villa yogyakarta
+
+
+===== NEGATIVE KEYWORDS (Add these to EXCLUDE) =====
+
+Add these as NEGATIVE KEYWORDS to avoid wasting budget:
+
+kost
+kost kosan
+kontrakan
+sewa bulanan
+kpr murah
+rumah subsidi
+apartemen murah
+properti murah
+rumah kpr
+cicilan ringan
+dp murah
+tanpa dp
+properti dijual cepat
+rumah lelang
+properti sitaan
+properti bekas
+second hand property
+cheap property
+budget apartment
+affordable housing
+low cost housing
+guest house
+motel
+hotel
+hostel
+boarding house
+india property
+pakistan property
+bangladesh property
+nainital
+islamabad
+mumbai
+delhi
+cottage
+lodge
+inn
+bed and breakfast
+airbnb hosting
+vacation rental short term
+sewa harian
+sewa mingguan
+
+
+===== USAGE INSTRUCTIONS =====
+
+1. Go to Google Ads > Audience Manager > Custom Segments
+2. Create New Custom Segment
+3. Select "People who searched for any of these terms on Google"
+4. Copy ALL keywords from "KEYWORDS TO ENTER" section above
+5. Paste into the keyword field (one per line)
+6. Select keyword setting: "Audience" (recommended)
+7. Name the segment: "Property Investment Indonesia - High Intent"
+8. Save
+
+9. Create SECOND custom segment for negative keywords:
+   - Create exclusion list
+   - Add all keywords from "NEGATIVE KEYWORDS" section
+   - Apply to all campaigns
+
+
+===== ALTERNATIVE SEGMENTS TO CREATE =====
+
+SEGMENT 1: "Jakarta Premium Apartments"
+- All Jakarta/Menteng apartment keywords only
+- Target people specifically looking in Jakarta
+
+SEGMENT 2: "Yogyakarta Villa Investment"
+- All Jogja/Yogyakarta villa keywords only
+- Target people specifically looking in Yogyakarta
+
+SEGMENT 3: "English Property Investors"
+- English keywords only (investment property, luxury apartment, etc.)
+- Target international/expat investors
+
+SEGMENT 4: "Indonesian Property Investors"
+- Indonesian keywords only (investasi properti, apartemen dijual, etc.)
+- Target local Indonesian investors
+
+
+===== MONITORING & OPTIMIZATION =====
+
+After 2 weeks, review Search Terms Report:
+□ Check which keywords are triggering ads
+□ Add irrelevant terms to negative keyword list
+□ Identify new relevant keywords to add
+□ Create separate segments for high-performers
+
+Success Indicators:
+✓ Click-through rate > 2%
+✓ Time on site > 2 minutes
+✓ Pages per session > 3
+✓ Bounce rate < 50%
+
+If performance is poor:
+- Try switching to "Content" keyword setting
+- Create smaller, more specific segments
+- Increase bid adjustments for best performers
