@@ -19,9 +19,11 @@ function Home() {
       <div className="max-w-7xl w-full relative z-10">
         {/* Header */}
         <div className="text-center mb-10 sm:mb-16">
-          <h1 className="text-4xl sm:text-5xl md:text-7xl font-serif text-white mb-4 sm:mb-6">
-            Yutaka Property
-          </h1>
+          <img
+            src="/logo.png"
+            alt="Yutaka Property"
+            className="mx-auto w-48 sm:w-64 md:w-80 mb-4 sm:mb-6"
+          />
           <p className="text-lg sm:text-xl md:text-2xl text-gray-200">
             Premium Property Investment
           </p>

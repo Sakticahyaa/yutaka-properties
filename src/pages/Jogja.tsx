@@ -72,8 +72,8 @@ function Jogja() {
       <nav className="fixed top-0 left-0 right-0 bg-white/95 backdrop-blur-sm shadow-md z-50">
         <div className="container-custom">
           <div className="flex justify-between items-center h-20">
-            <Link to="/" className="text-2xl font-serif font-bold text-primary-700 hover:text-primary-800 transition-colors">
-              Yutaka Property
+            <Link to="/" className="flex items-center">
+              <img src="/logo.png" alt="Yutaka Property" className="h-12 w-auto" />
             </Link>
 
             {/* Desktop Navigation */}
