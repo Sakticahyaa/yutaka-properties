@@ -1,0 +1,298 @@
+YUTAKA PROPERTY - GOOGLE ADS AUDIENCE SEGMENTS GUIDE
+====================================================
+
+=== 1. DETAILED DEMOGRAPHICS (Who they are) ===
+
+AGE:
+✓ 25-34 years (Young professionals, first-time investors)
+✓ 35-44 years ⭐ PRIMARY (Peak earning, family-oriented investors)
+✓ 45-54 years ⭐ PRIMARY (High net worth, experienced investors)
+✓ 55-64 years (Pre-retirement, investment diversification)
+✓ 65+ years (Retirement income, legacy planning)
+
+GENDER:
+✓ All genders (Property investment appeals equally)
+
+PARENTAL STATUS:
+✓ Parents ⭐⭐ (Family-oriented, long-term investment thinking)
+  ✓ Parents of Infants (0-1 years) - Future planning mindset
+  ✓ Parents of Toddlers (1-3 years) - Securing family future
+  ✓ Parents of Preschoolers (4-5 years) - Investment for education
+  ✓ Parents of Grade-Schoolers (6-12 years) ⭐ - Peak earning years
+  ✓ Parents of Teens (13-17 years) ⭐⭐ - College planning, legacy
+✓ Not a parent (Single investors, DINKs - high disposable income)
+✓ Unknown
+
+HOUSEHOLD INCOME:
+✓ Top 10% ⭐⭐⭐ CRITICAL (Can afford 2.9B+ properties)
+✓ 11-20% ⭐⭐ (Potential buyers with financing)
+✓ 21-30% ⭐ (Aspirational, future buyers)
+✗ Lower 70% (Skip - below target market)
+
+HOMEOWNERSHIP STATUS:
+✓ Homeowners ⭐⭐⭐ (Already understand property value, likely to invest in additional properties)
+✓ Renters ⭐ (Some high-income renters invest in properties they don't live in)
+✓ Unknown (Include to not miss potential buyers)
+
+MARITAL STATUS:
+✓ Married ⭐⭐⭐ (Dual income, joint investment decisions, family planning)
+✓ Single ⭐⭐ (Individual investors, high earners, bachelor lifestyle properties)
+✓ In a Relationship ⭐ (Young couples, future planning)
+
+EDUCATION:
+✗ Current College Students (Skip - no purchasing power)
+
+HIGHEST LEVEL OF EDUCATIONAL ATTAINMENT:
+✓ High School Graduate (Skip or low priority - lower earning potential)
+✓ Bachelor's Degree ⭐⭐ (Professional careers, good income)
+✓ Advanced Degree ⭐⭐⭐ (Highest earning potential, doctors, lawyers, executives)
+
+
+=== 2. AFFINITY AUDIENCES (Interests & habits) ===
+
+BUSINESS & FINANCE:
+✓ Investors & Financial Planners ⭐⭐⭐
+✓ Business Professionals ⭐⭐
+✓ Small Business Owners ⭐⭐
+
+LIFESTYLE:
+✓ Luxury Shoppers ⭐⭐⭐
+✓ Frequent International Travelers ⭐⭐
+✓ High Net Worth Individuals ⭐⭐⭐
+✓ Urban Professionals ⭐⭐
+
+REAL ESTATE FOCUSED:
+✓ Real Estate Enthusiasts ⭐⭐⭐
+✓ Home Improvement & Design Enthusiasts ⭐
+✓ Luxury Home Enthusiasts ⭐⭐
+
+TECHNOLOGY & INNOVATION:
+✓ Technology Early Adopters ⭐
+✓ Business & Productivity Software Users ⭐
+
+MEDIA & ENTERTAINMENT:
+✓ News & Politics Enthusiasts (Informed decision makers)
+✓ Business News Readers ⭐⭐
+
+TRAVEL & PLACES:
+✓ Domestic Travelers (Indonesia) ⭐
+✓ Asia Pacific Travelers ⭐⭐
+
+
+=== 3. IN-MARKET & LIFE EVENTS (Active research/planning) ===
+
+IN-MARKET - REAL ESTATE:
+✓ Residential Properties > Investment Properties ⭐⭐⭐
+✓ Residential Properties > Luxury Homes ⭐⭐⭐
+✓ Residential Properties > Apartments & Condominiums ⭐⭐
+✓ Residential Properties > New Homes ⭐
+✓ Vacation Properties ⭐⭐
+
+IN-MARKET - BUSINESS & FINANCE:
+✓ Investment Services > Real Estate Investment ⭐⭐⭐
+✓ Investment Services > Wealth Management ⭐⭐
+✓ Business Services > Investment Consulting ⭐⭐
+
+LIFE EVENTS:
+✓ Graduating college (Entry-level investors)
+✓ Job change (Career advancement, salary increase)
+✓ Moving > Moving to Indonesia ⭐⭐ (Expats relocating)
+✓ Moving > Moving to a metropolitan area ⭐
+✓ Starting a business ⭐ (Entrepreneurs with capital)
+✓ Upcoming birthday > 30th, 40th, 50th (Milestone investment decisions)
+
+
+=== 4. YOUR DATA SEGMENTS (Business interaction) ===
+
+WEBSITE VISITORS:
+✓ All website visitors (30 days) - Bid: +30%
+✓ All website visitors (7 days) - Bid: +50% ⭐⭐
+✓ Gallery page viewers - Bid: +60% ⭐⭐⭐ (High intent)
+✓ Contact section viewers - Bid: +80% ⭐⭐⭐ (Very high intent)
+✓ Menteng page visitors - Bid: +40%
+✓ Jogja page visitors - Bid: +40%
+✓ Spent 2+ minutes on site - Bid: +70% ⭐⭐⭐
+✓ Visited 3+ pages - Bid: +65% ⭐⭐⭐
+
+CUSTOMER LISTS (If available):
+✓ Email subscribers
+✓ WhatsApp contacts who inquired
+✓ Previous property viewers
+✓ Real estate agents/brokers network
+
+APP USERS (Future):
+□ Mobile app users (if developed)
+
+ENGAGEMENT:
+✓ YouTube video viewers (if you create property tours)
+✓ Instagram/Facebook page visitors
+✓ People who clicked WhatsApp CTA
+
+
+=== 5. COMBINED SEGMENTS (Recommended combinations) ===
+
+COMBO 1: "High Intent Premium Investors"
+- In-Market: Investment Properties
+- + Household Income: Top 10%
+- + Age: 35-54
+- Bid: +50%
+
+COMBO 2: "Luxury Lifestyle Investors"
+- Affinity: Luxury Shoppers
+- + Affinity: Frequent Travelers
+- + Household Income: Top 10-20%
+- Bid: +40%
+
+COMBO 3: "Business Professional Investors"
+- Affinity: Business Professionals
+- + In-Market: Investment Services
+- + Education: Graduate Degree
+- Bid: +45%
+
+COMBO 4: "Jakarta Premium Residents"
+- Location: Jakarta (DKI)
+- + Household Income: Top 10%
+- + Homeowner Status: Yes
+- Bid: +35%
+
+COMBO 5: "Expat Relocators"
+- Life Event: Moving to Indonesia
+- + Household Income: Top 20%
+- + Language: English
+- Bid: +55%
+
+COMBO 6: "Engaged Website Visitors"
+- Your Data: Visited 3+ pages
+- + Your Data: Spent 2+ minutes
+- + Not Converted (exclude customer list)
+- Bid: +75% ⭐⭐⭐
+
+
+=== 6. CUSTOM SEGMENTS (Create these manually) ===
+
+CUSTOM SEGMENT 1: "Property Investment Researchers"
+Keywords:
+- investasi properti jakarta
+- beli apartemen premium
+- ROI properti indonesia
+- passive income real estate
+- apartemen sewa jangka panjang
+- villa investasi jogja
+- property investment indonesia
+- luxury apartment jakarta
+- fully furnished apartment investment
+- real estate ROI calculation
+
+CUSTOM SEGMENT 2: "Competitor Research"
+URLs of competitor websites:
+- rumah123.com
+- lamudi.co.id
+- 99.co/id
+- olx.co.id/properti
+- urbanindo.com
+
+CUSTOM SEGMENT 3: "Luxury Lifestyle Websites"
+URLs:
+- forbes.com/real-estate
+- bloomberg.com/wealth
+- luxuryhomes.com
+- architecturaldigest.com
+- wallpaper.com
+
+CUSTOM SEGMENT 4: "Investment Research"
+URLs:
+- investopedia.com
+- seputarforex.com
+- bareksa.com
+- cnbcindonesia.com (property section)
+- bisnis.com (property section)
+
+CUSTOM SEGMENT 5: "Location-Specific Searchers"
+Keywords:
+- apartemen menteng dijual
+- penthouse jakarta pusat
+- villa jogja dekat malioboro
+- properti maguwoharjo
+- investasi properti yogyakarta
+- apartemen fully furnished jakarta
+- sewa apartemen jakarta roi tinggi
+
+
+=== EXCLUSIONS (Audiences to EXCLUDE) ===
+
+NEGATIVE AUDIENCES:
+✗ Students (no purchasing power)
+✗ Job Seekers (financially unstable)
+✗ Household Income: Bottom 70% (can't afford)
+✗ Age: 18-24 (too young, no capital)
+✗ People interested in "cheap" or "budget" keywords
+✗ Short-term rental seekers (not investors)
+✗ People looking for "kost" or "boarding house"
+✗ People interested in property auctions/foreclosures
+
+
+=== RECOMMENDED STRATEGY ===
+
+PHASE 1 (Week 1-2): Test Broad Audiences
+- In-Market: Investment Properties (50% budget)
+- Household Income: Top 10% (30% budget)
+- Website Remarketing 7 days (20% budget)
+
+PHASE 2 (Week 3-4): Optimize Based on Performance
+- Increase bids on best-performing age groups
+- Add affinity audiences that show promise
+- Create combined segments from winners
+
+PHASE 3 (Month 2+): Scale & Refine
+- Launch custom segments
+- Test life events targeting
+- Expand to international audiences (Singapore, Malaysia)
+- Implement customer list targeting
+
+
+=== BID ADJUSTMENT HIERARCHY ===
+
+🥇 HIGHEST PRIORITY (+60% to +100%):
+- Your Data: Contact page viewers
+- Your Data: Spent 2+ minutes on site
+- Combined: High Intent Premium Investors
+- In-Market: Investment Properties + Top 10% income
+
+🥈 HIGH PRIORITY (+30% to +60%):
+- Your Data: Gallery viewers
+- In-Market: Luxury Homes
+- Affinity: High Net Worth Individuals
+- Custom Segment: Property Investment Researchers
+
+🥉 MEDIUM PRIORITY (+10% to +30%):
+- Your Data: All visitors (30 days)
+- Affinity: Business Professionals
+- Detailed Demo: Top 20% income
+- Life Events: Moving to Indonesia
+
+⚪ BASELINE (0% adjustment):
+- Broad real estate interest
+- General website visitors (90+ days)
+- Lower-intent audiences for awareness
+
+
+=== MEASUREMENT & OPTIMIZATION ===
+
+TRACK THESE METRICS BY AUDIENCE:
+□ Conversion Rate (WhatsApp clicks, contact form fills)
+□ Cost Per Conversion
+□ Time on Site
+□ Bounce Rate
+□ Pages Per Session
+
+OPTIMIZE WEEKLY:
+□ Pause audiences with 0 conversions after 100+ clicks
+□ Increase bids by 20% for audiences with CPA below target
+□ Decrease bids by 20% for audiences with CPA above target
+□ Add negative audiences that show poor engagement
+
+SCALE MONTHLY:
+□ Expand winning audiences to similar segments
+□ Test lookalike audiences of converters
+□ Increase budget allocation to top performers
+□ Create new combined segments from insights
