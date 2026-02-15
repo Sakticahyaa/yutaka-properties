@@ -1,0 +1,192 @@
+YUTAKA PROPERTY - GOOGLE ADS TARGETING GUIDE
+=============================================
+
+===== AUDIENCE SEGMENTS =====
+
+SELECT THESE SEGMENTS:
+✓ Investment Property (Based on your website)
+✓ Real Estate (Based on your website)
+✓ Real Estate Investment Opportunities (Based on your website)
+✓ Investment Services (Based on your website)
+
+SKIP THESE:
+✗ australian investment (Not relevant - you're targeting Indonesia)
+
+ADDITIONAL SEGMENTS TO ADD MANUALLY:
+- Property Investors
+- Real Estate Investors
+- Luxury Real Estate
+- High Net Worth Individuals
+- Rental Property Investors
+- Commercial Real Estate Investors
+- Residential Real Estate
+
+
+===== IN-MARKET AUDIENCES =====
+
+Real Estate > Residential Properties > Investment Properties
+Real Estate > Luxury Real Estate
+Business Services > Investment Services
+Travel > Travel Destinations > Indonesia (for expatriates)
+
+
+===== AFFINITY AUDIENCES =====
+
+- Luxury Shoppers
+- High Net Worth Individuals
+- Frequent International Travelers
+- Business Professionals
+- Investors & Financial Planners
+
+
+===== DEMOGRAPHICS =====
+
+AGE:
+✓ 25-34 years
+✓ 35-44 years (PRIMARY TARGET)
+✓ 45-54 years (PRIMARY TARGET)
+✓ 55-64 years
+✓ 65+ years
+
+GENDER:
+✓ All genders
+
+PARENTAL STATUS:
+✓ All
+
+HOUSEHOLD INCOME:
+✓ Top 10% (MOST IMPORTANT)
+✓ Top 11-20%
+✓ Top 21-30%
+Skip: Lower income brackets (not relevant for premium properties)
+
+
+===== LOCATION TARGETING =====
+
+PRIMARY LOCATIONS (Indonesia):
+- Jakarta (DKI Jakarta)
+- Yogyakarta (D.I. Yogyakarta)
+- Tangerang
+- Bekasi
+- Bogor
+- Depok
+- Bandung
+- Surabaya
+- Bali
+
+SECONDARY (Expatriates/International Investors):
+- Singapore
+- Malaysia (Kuala Lumpur)
+- Hong Kong
+- Australia (Sydney, Melbourne)
+- Japan (Tokyo)
+
+TARGET BY:
+○ People in or regularly in your targeted locations (Recommended)
+
+
+===== LANGUAGE TARGETING =====
+
+✓ Indonesian (Bahasa Indonesia)
+✓ English
+
+
+===== CUSTOM AUDIENCES =====
+
+CREATE CUSTOM INTENT AUDIENCE with these keywords/URLs:
+- investasi properti indonesia
+- beli apartemen jakarta
+- villa jogja dijual
+- properti premium indonesia
+- passive income property
+- ROI property investment
+- turnkey property indonesia
+- fully furnished apartment
+- investment property jakarta
+- real estate investment indonesia
+
+
+===== DEVICE TARGETING =====
+
+✓ Mobile (80% of traffic)
+✓ Desktop/Laptop
+✓ Tablet
+
+MOBILE BID ADJUSTMENT: +20% (Most users browse on mobile)
+
+
+===== INTERESTS & DETAILED TARGETING =====
+
+INTERESTS:
+- Real Estate Investment
+- Property Development
+- Passive Income Strategies
+- Wealth Management
+- Luxury Lifestyle
+- Business & Finance
+- Entrepreneurship
+
+JOB ROLES/INDUSTRIES:
+- Business Owners
+- Executives & Senior Management
+- Finance & Investment
+- Entrepreneurs
+- Self-Employed
+
+
+===== EXCLUSIONS (NEGATIVE AUDIENCES) =====
+
+EXCLUDE:
+- Students
+- Job Seekers
+- Low-income brackets
+- Renters looking for short-term housing
+- People interested in "cheap" or "budget" properties
+
+
+===== REMARKETING =====
+
+CREATE REMARKETING LISTS FOR:
+1. Website visitors (last 30 days)
+2. Gallery page viewers (high intent)
+3. Contact section viewers (very high intent)
+4. Spent 2+ minutes on site (engaged users)
+
+BID ADJUSTMENT: +50% for remarketing audiences
+
+
+===== RECOMMENDATIONS =====
+
+START CONSERVATIVE:
+- Begin with Indonesia-only targeting
+- Focus on Jakarta & Yogyakarta first
+- Use top 10% household income exclusively
+
+EXPAND GRADUALLY:
+- After 2 weeks, add Singapore/Malaysia if budget allows
+- Test different age groups (track which converts best)
+- Add custom audiences based on search term performance
+
+MONITOR & OPTIMIZE:
+- Review audience performance weekly
+- Increase bids for high-performing segments
+- Exclude underperforming segments after sufficient data
+
+BUDGET ALLOCATION:
+- 60% - In-Market Real Estate Audiences
+- 25% - Custom Intent (Your Keywords)
+- 15% - Remarketing
+
+
+===== FINAL CHECKLIST =====
+
+□ Select website-based audiences (Investment Property, Real Estate, etc.)
+□ Add in-market audiences for real estate
+□ Set household income to Top 10-30%
+□ Target Jakarta and Yogyakarta primarily
+□ Set languages to Indonesian + English
+□ Create custom intent audience with property keywords
+□ Set mobile bid adjustment to +20%
+□ Exclude low-income and student audiences
+□ Set up remarketing for website visitors
+□ Start conservative, expand based on performance
