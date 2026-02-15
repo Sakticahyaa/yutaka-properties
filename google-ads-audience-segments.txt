@@ -50,33 +50,97 @@ HIGHEST LEVEL OF EDUCATIONAL ATTAINMENT:
 
 === 2. AFFINITY AUDIENCES (Interests & habits) ===
 
-BUSINESS & FINANCE:
-✓ Investors & Financial Planners ⭐⭐⭐
-✓ Business Professionals ⭐⭐
-✓ Small Business Owners ⭐⭐
+⭐⭐⭐ MUST SELECT (Priority 1 - Start with these):
+1. Banking & Finance > Avid Investors
+2. Lifestyles & Hobbies > Business Professionals
+3. News & Politics > Avid Business News Readers
+4. Shoppers > Luxury Shoppers
+5. Travel > Business Travelers
+6. Travel > Luxury Travelers
+7. Vehicles & Transportation > Performance & Luxury Vehicle Enthusiasts
 
-LIFESTYLE:
-✓ Luxury Shoppers ⭐⭐⭐
-✓ Frequent International Travelers ⭐⭐
-✓ High Net Worth Individuals ⭐⭐⭐
-✓ Urban Professionals ⭐⭐
+⭐⭐ RECOMMENDED (Priority 2 - Add after testing Priority 1):
+- Lifestyles & Hobbies > Family-Focused
+- Home & Garden > Home Decor Enthusiasts
+- Technology > Technophiles
+- Sports & Fitness > Health & Fitness Buffs
+- Sports & Fitness > Golf Enthusiasts
 
-REAL ESTATE FOCUSED:
-✓ Real Estate Enthusiasts ⭐⭐⭐
-✓ Home Improvement & Design Enthusiasts ⭐
-✓ Luxury Home Enthusiasts ⭐⭐
+FULL LIST WITH SELECTIONS:
 
-TECHNOLOGY & INNOVATION:
-✓ Technology Early Adopters ⭐
-✓ Business & Productivity Software Users ⭐
+BANKING & FINANCE:
+✓ Avid Investors ⭐⭐⭐ MUST HAVE (Core target audience)
+
+FOOD & DINING (Low priority but indicators of disposable income):
+○ Foodies ⭐
+○ Frequently Dines Out ⭐
+
+HOME & GARDEN:
+✓ Do-It-Yourselfers ⭐
+✓ Home Decor Enthusiasts ⭐⭐ (Interest in property aesthetics)
+
+LIFESTYLES & HOBBIES:
+✓ Art & Theater Aficionados ⭐ (Cultural sophistication)
+✓ Business Professionals ⭐⭐⭐ MUST HAVE (High earners, decision makers)
+✓ Family-Focused ⭐⭐ (Long-term planning, children's future)
+✓ Fashionistas ⭐ (Luxury lifestyle indicator)
+✓ Frequently Attends Live Events ⭐ (Disposable income indicator)
+✓ Green Living Enthusiasts ○ (Environmentally conscious investors)
+○ Pet Lovers (Skip - not directly relevant)
 
 MEDIA & ENTERTAINMENT:
-✓ News & Politics Enthusiasts (Informed decision makers)
-✓ Business News Readers ⭐⭐
+○ Book Lovers ⭐ (Educated, thoughtful)
+✓ Movie Lovers > Luxury/Premium preferences ⭐
+○ Music Lovers (Generally skip unless luxury indicators)
+✓ Light TV Viewers ⭐ (Busy professionals, less time for TV)
 
-TRAVEL & PLACES:
-✓ Domestic Travelers (Indonesia) ⭐
-✓ Asia Pacific Travelers ⭐⭐
+NEWS & POLITICS:
+✓ Avid News Readers ⭐⭐ (Informed, educated)
+✓ Avid Business News Readers ⭐⭐⭐ MUST HAVE (Investment-minded)
+✓ Avid World News Readers ⭐⭐ (Globally aware, international outlook)
+○ Avid Local News Readers ⭐
+○ Entertainment News Enthusiasts (Skip - not relevant)
+
+SHOPPERS:
+✗ Bargain Hunters (Skip - contradicts premium positioning)
+✓ Luxury Shoppers ⭐⭐⭐ MUST HAVE (Premium lifestyle)
+✓ Department Store Shoppers ⭐
+○ Shopping Enthusiasts ⭐
+✗ Value Shoppers (Skip - budget-conscious)
+
+SPORTS & FITNESS:
+✓ Health & Fitness Buffs ⭐⭐ (Self-improvement mindset, discipline)
+○ Golf Enthusiasts ⭐⭐ (Networking, business deals, affluent)
+○ Tennis Enthusiasts ⭐ (Country club lifestyle)
+○ Cycling Enthusiasts ⭐
+○ Running Enthusiasts ⭐
+○ Swimming Enthusiasts ⭐
+✗ Most team sports fans (Skip unless testing - less relevant)
+
+TECHNOLOGY:
+✓ Mobile Enthusiasts ⭐
+✓ Social Media Enthusiasts ⭐
+✓ Technophiles ⭐⭐ (Early adopters, high income tech professionals)
+  ✓ Audiophiles ⭐
+  ✓ Cloud Services Power Users ⭐
+  ✓ High-End Computer Aficionados ⭐⭐
+  ✓ Home Automation Enthusiasts ⭐⭐ (Premium home tech)
+
+TRAVEL:
+✓ Business Travelers ⭐⭐⭐ MUST HAVE (Frequent flyers, high earners)
+✓ Travel Buffs ⭐⭐ (Disposable income for travel)
+  ✓ Beachbound Travelers ⭐ (Villa/resort interest)
+  ✓ Family Vacationers ⭐⭐ (Family planning)
+  ✓ Luxury Travelers ⭐⭐⭐ MUST HAVE (Premium lifestyle)
+  ○ Snowbound Travelers ⭐
+
+VEHICLES & TRANSPORTATION:
+✓ Auto Enthusiasts ⭐⭐ (Interest in assets)
+○ Motorcycle Enthusiasts ⭐
+✓ Performance & Luxury Vehicle Enthusiasts ⭐⭐⭐ (High net worth indicator)
+✓ Truck & SUV Enthusiasts ⭐ (Family-oriented)
+○ Public Transit Users (Skip - lower income indicator)
+✗ Taxi Service Users (Skip - not car owners)
 
 
 === 3. IN-MARKET & LIFE EVENTS (Active research/planning) ===
