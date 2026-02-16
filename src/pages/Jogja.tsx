@@ -187,7 +187,7 @@ function Jogja() {
               playsInline
               controls
               className="w-full rounded-lg shadow-2xl"
-              style={{ height: '25vh', objectFit: 'cover' }}
+              style={{ maxHeight: '25vh', width: 'auto', margin: '0 auto', display: 'block' }}
             >
               <source src="/jogja-video.mp4" type="video/mp4" />
               Your browser does not support the video tag.
