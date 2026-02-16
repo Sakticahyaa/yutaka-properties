@@ -181,9 +181,13 @@ function Jogja() {
         <div className="container-custom">
           <div className="max-w-5xl mx-auto">
             <video
+              autoPlay
+              muted
+              loop
+              playsInline
               controls
               className="w-full rounded-lg shadow-2xl"
-              poster="/jogja-video-poster.jpg"
+              style={{ height: '25vh', objectFit: 'cover' }}
             >
               <source src="/jogja-video.mp4" type="video/mp4" />
               Your browser does not support the video tag.
