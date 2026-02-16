@@ -176,6 +176,22 @@ function Jogja() {
         </div>
       </section>
 
+      {/* Video Section */}
+      <section className="section-padding bg-white reveal-on-scroll">
+        <div className="container-custom">
+          <div className="max-w-5xl mx-auto">
+            <video
+              controls
+              className="w-full rounded-lg shadow-2xl"
+              poster="/jogja-video-poster.jpg"
+            >
+              <source src="/jogja-video.mp4" type="video/mp4" />
+              Your browser does not support the video tag.
+            </video>
+          </div>
+        </div>
+      </section>
+
       {/* Gallery Section */}
       <section id="gallery" className="section-padding bg-gray-50 reveal-on-scroll">
         <div className="container-custom">
