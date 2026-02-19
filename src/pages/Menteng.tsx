@@ -165,6 +165,26 @@ function Menteng() {
         </div>
       </section>
 
+      {/* Video Section */}
+      <section className="section-padding bg-white reveal-on-scroll">
+        <div className="container-custom">
+          <div className="max-w-5xl mx-auto">
+            <video
+              autoPlay
+              muted
+              loop
+              playsInline
+              controls
+              className="w-full rounded-lg shadow-2xl"
+              style={{ maxHeight: '60vh', width: 'auto', margin: '0 auto', display: 'block' }}
+            >
+              <source src="/menteng-video.mp4" type="video/mp4" />
+              Your browser does not support the video tag.
+            </video>
+          </div>
+        </div>
+      </section>
+
       {/* Gallery Section */}
       <section id="gallery" className="section-padding bg-gray-50 reveal-on-scroll">
         <div className="container-custom">
