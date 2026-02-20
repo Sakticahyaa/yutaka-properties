@@ -2,6 +2,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Home from './pages/Home';
 import Menteng from './pages/Menteng';
 import Jogja from './pages/Jogja';
+import WhatsAppRedirect from './pages/WhatsAppRedirect';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="/menteng" element={<Menteng />} />
         <Route path="/jogja" element={<Jogja />} />
+        <Route path="/wa" element={<WhatsAppRedirect />} />
       </Routes>
     </BrowserRouter>
   );

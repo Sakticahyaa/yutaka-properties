@@ -116,7 +116,7 @@ function Menteng() {
             Tinggal di pusat Jakarta, atau punya aset yang terus menghasilkan?
           </p>
           <a
-            href="https://wa.me/628119155850"
+            href="/wa"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 sm:gap-3 bg-transparent border-2 border-gold-400 text-gold-400 px-6 sm:px-8 py-3 sm:py-4 rounded-lg hover:bg-gold-400 hover:border-gold-500 hover:text-white transition-all duration-300 font-medium text-base sm:text-lg backdrop-blur-sm"
@@ -366,7 +366,7 @@ function Menteng() {
             </p>
 
             <a
-              href="https://wa.me/628119155850"
+              href="/wa"
               target="_blank"
               rel="noopener noreferrer"
               className="btn-gold text-sm sm:text-base px-6 sm:px-8 py-3 sm:py-4 inline-flex items-center gap-2"
@@ -394,7 +394,7 @@ function Menteng() {
 
             <div className="flex justify-center mb-8 sm:mb-10">
               <a
-                href="https://wa.me/628119155850"
+                href="/wa"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center justify-center gap-2 bg-green-600 text-white px-6 sm:px-8 py-3 sm:py-4 rounded-lg hover:bg-green-700 transition-colors text-sm sm:text-base font-medium shadow-lg hover:shadow-xl"
