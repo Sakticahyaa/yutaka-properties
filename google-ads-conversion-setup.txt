@@ -1,0 +1,80 @@
+YUTAKA PROPERTY - GOOGLE ADS CONVERSION TRACKING SETUP
+=======================================================
+
+WHY "AUTOMATICALLY WITHOUT CODE" WON'T WORK:
+Clicking WhatsApp opens the WhatsApp app - it doesn't load a new
+page on your website. So there's no URL to track with page load.
+You need CLICK tracking instead.
+
+=======================================================
+STEP 1: IN GOOGLE ADS - CREATE THE CONVERSION
+=======================================================
+
+1. Go to: Goals > Conversions > Summary > New Conversion Action
+2. Choose: "Website"
+3. Choose: "Manually with code"
+
+FILL IN:
+- Goal category: Contact
+- Conversion name: WhatsApp Click
+- Value: Don't assign a value (or set estimated deal value)
+- Count: One (one conversion per click is enough)
+- Click-through conversion window: 30 days
+- View-through conversion window: 1 day
+- Attribution model: Data-driven (or Last click)
+
+4. Click DONE / SAVE & CONTINUE
+
+=======================================================
+STEP 2: GET YOUR IDs FROM GOOGLE ADS
+=======================================================
+
+After creating the conversion, Google will show you a code snippet like:
+
+  gtag('config', 'AW-XXXXXXXXX');
+  gtag('event', 'conversion', {'send_to': 'AW-XXXXXXXXX/YYYYYYYYYY'});
+
+You need two things:
+  → Conversion ID:    AW-XXXXXXXXX       (the number after AW-)
+  → Conversion Label: YYYYYYYYYY         (the part after the slash)
+
+Write these down - you'll need to send them to me so I can
+add them to your website code.
+
+=======================================================
+STEP 3: WHAT I WILL ADD TO YOUR WEBSITE
+=======================================================
+
+I will:
+1. Add Google Tag script to index.html
+2. Add a tracking function to every WhatsApp CTA button
+   on Home, Menteng, and Jogja pages
+
+Every time someone clicks "Hubungi Kami" / "WhatsApp" button,
+it will fire the conversion event to Google Ads BEFORE
+redirecting them to WhatsApp.
+
+=======================================================
+STEP 4: VERIFY IT'S WORKING
+=======================================================
+
+After I add the code:
+1. Install Chrome extension: "Google Tag Assistant"
+2. Visit your website and click a WhatsApp button
+3. Check Tag Assistant - should show conversion firing
+4. In Google Ads, check: Goals > Conversions
+   - Status should change from "Unverified" to "Recording"
+
+=======================================================
+ACTION NEEDED FROM YOU:
+=======================================================
+
+In Google Ads, after creating the conversion:
+1. Look for the gtag snippet they show you
+2. Find your:
+   - Conversion ID (AW-XXXXXXXXX)
+   - Conversion Label (after the slash)
+3. Send those two values to me
+4. I will add all the tracking code to your website
+
+=======================================================
