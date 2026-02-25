@@ -312,6 +312,18 @@ function Jogja() {
                   </ul>
                 </div>
               </div>
+              <div className="mt-8 rounded-lg overflow-hidden shadow-lg">
+                <iframe
+                  src="https://maps.google.com/maps?q=-7.746788,110.420985&z=17&output=embed"
+                  width="100%"
+                  height="400"
+                  style={{ border: 0 }}
+                  allowFullScreen
+                  loading="lazy"
+                  referrerPolicy="no-referrer-when-downgrade"
+                  title="Lokasi Easyhome Jogja"
+                />
+              </div>
               <p className="mt-6">
                 Lokasi strategis dengan <strong className="text-gold-700">daya tarik tinggi untuk wisatawan dan mahasiswa</strong>. Ideal untuk hunian keluarga atau investasi homestay.
               </p>
